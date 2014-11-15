@@ -8,15 +8,12 @@ License: [MIT License](http://opensource.org/licenses/MIT) (just as headroom.js 
 
 Add this line to your application's Gemfile:
 
-    gem 'headroom-rails'
+    gem 'headroom-rails', github: 'sikmi/headroom-rails'
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install headroom-rails
 
 ## Usage
 For CoffeeScript
