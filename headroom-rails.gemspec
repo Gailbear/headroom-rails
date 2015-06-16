@@ -19,5 +19,4 @@ Gem::Specification.new do |gem|
   #gem.rubyforge_project = '[none]'
 
   gem.add_dependency "rails", ">= 3.1.0"
-  gem.add_dependency "headroom-rails"
 end
